@@ -1,4 +1,4 @@
-# made arch simple
+# Made arch simple
 
 [Download the file](https://drive.google.com/file/d/1HueKhKpZu73Xjdsq7_8sBwA4LYCAGggO/view?usp=sharing)  download ova from here
 
